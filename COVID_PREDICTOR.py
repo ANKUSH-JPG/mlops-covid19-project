@@ -3,7 +3,7 @@
 
 
 # In[1]:
-# CREATOR ANKUSH SAINI
+
 
 from keras.models import Sequential
 
